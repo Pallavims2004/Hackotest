@@ -1,0 +1,1 @@
+18-07-2026  13:00:12.095  WMI exception: Access violation at address 0088C7B4 in module '1HDSentinel.exe'. Read of address 00000A00, Drive: -1

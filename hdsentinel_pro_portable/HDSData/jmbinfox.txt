@@ -1,0 +1,10 @@
+DETJMX v0.03 (c) 2020. www.hdsentinel.com
+-- CONTROLLER 1 START --
+
+
+Check "\\.\PhysicalDrive1" ...
+
+jmraid_open failed
+---- DriveIndex=1,1
+-- CONTROLLER 1 END --
+
